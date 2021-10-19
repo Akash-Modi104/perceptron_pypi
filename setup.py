@@ -7,7 +7,7 @@ setuptools.setup(
     name="perceptron_pypi",
     version="0.0.1",
     author="Akash Modi",
-    author_email="developer.akash104@.com",
+    author_email="developer.akash104@gmail.com",
     description="its an implimentation of Perceptron",
     long_description=long_description,
     long_description_content_type="text/markdown",
