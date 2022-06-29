@@ -2,12 +2,13 @@
 PERCEPTRON_PYPI
 
 
+## install 
+pip install perceptron-pypi
 
-## How to use this
+## uri kink for pypi page
+https://pypi.org/project/perceptron-pypi/#data
 
-```python
-from # oneNeuron_pypi
-oneNeuron_pypi
+
 
 
 
