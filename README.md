@@ -5,8 +5,8 @@ PERCEPTRON_PYPI
 ## install 
 pip install perceptron-pypi
 
-## uri kink for pypi page
-https://pypi.org/project/perceptron-pypi/#data
+## url link for pypi page
+https://pypi.org/project/perceptron-pypi
 
 
 
